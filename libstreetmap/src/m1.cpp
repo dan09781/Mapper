@@ -8,7 +8,7 @@
 #include "graphics.h"
 #include "OSMDatabaseAPI.h"
 #include "data_structure.h"
-
+ 
 using namespace std;
 // Helper function for find_closest_intersection
 unsigned check_each_cell(bool& second_entered_once, double& closest_INT_distance, unsigned closest_INT_id, vector<unsigned> vector_with_enclosed_intersections, LatLon my_position_temp);

@@ -67,7 +67,7 @@ double compute_path_travel_time(const vector<unsigned>& path) {
                 prev_street_id = street_id;
             }
         }
-    }
+    } 
     return travel_time;
 }
 

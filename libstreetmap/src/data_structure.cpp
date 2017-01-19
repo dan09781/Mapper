@@ -10,7 +10,7 @@
 #include <unordered_map>
 #include <string>
 #include <iomanip>
-#include <algorithm> 
+#include <algorithm>  
 #include "LatLon.h"
 #include "milestone_3_graph.h"
 #include "OSMDatabaseAPI.h"
